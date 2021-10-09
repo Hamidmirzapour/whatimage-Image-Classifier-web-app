@@ -1,0 +1,21 @@
+.back {
+    background-color: #f8f8f8;
+    border: 3px dashed #f0f0f0;
+    border-radius: 5px;
+    width: 100%;
+    margin: 25px 0;
+    padding: 75px 0;
+}
+.back:hover {
+    border: 3px dashed deepskyblue;
+}
+ul{
+    list-style-type: none;
+}
+.fa-image {
+    font-size: 100px;
+}
+.classified-image {
+    width: 50%;
+    height: 50%;
+}
